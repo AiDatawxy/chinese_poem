@@ -35,5 +35,11 @@
   * 使用降维后的特征计算诗人间的相近度，结果保存为 atm_model/emb_distances.bin
   * 根据意象意境信息，使用调整后的余弦相似度方法计算诗人间的相似度，结果保存为 atm_model/tag_similarities.bin
   
-
+* tk_frame.py
+  * 利用 python tkinter 包构建文件分析结果界面的组件
+  
+* tk_main.py
+  * 载入数据并组合组件
+  
+  
   
